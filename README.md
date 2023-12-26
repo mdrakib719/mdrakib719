@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Md Rakib Hossain
 - 👀 I’m interested in new things
 - 🌱 I’m currently learning algorithm
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on mail : mdrakibislam719@gamil.com
 
 <!---
